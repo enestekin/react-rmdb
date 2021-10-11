@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Demo: https://react-rmdb-movielist.netlify.app/
+# <a href='https://react-rmdb-movielist.netlify.app/'>Demo</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
